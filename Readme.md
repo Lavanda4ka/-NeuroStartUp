@@ -16,7 +16,7 @@ NeuroStartUp — динамично развивающийся стартап, �
 
 Ниже пример кода нашего приложения:
 
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
+'.selector { 
+   font-family: "Awesome", Arial, sans-serif;
+   color: red;
+ }'
